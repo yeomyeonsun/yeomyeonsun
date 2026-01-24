@@ -44,7 +44,7 @@ Problem: 기존 사후 대응 방식의 한계 및 의료 데이터(MIMIC-III)�
 Solution: 시계열 Windowing 전처리 파이프라인 구축 및 Multi-task Bi-LSTM 모델 구현
 Result: 저혈압 예측 오차(MAE) 6.08mmHg, 패혈증 심각도 예측 오차(RMSE) 1.08점 달성
 
-2.  삼성바이오로직스 자재관리 경쟁력 강화를 위한 ERP 도입 전략
+2. [삼성바이오로직스 자재관리 경쟁력 강화를 위한 ERP 도입 전략] (https://github.com/yeomyeonsun/-ERP-)
 > Type: Business Strategy Proposal | Role: AS-IS Analysis, ROI Simulation | Period: 2025.10 - 2025.11
 
 노후화된 온프레미스 시스템을 클라우드 ERP로 전환하기 위한 투자 타당성 분석 및 전략 제안
