@@ -1,4 +1,4 @@
-👋 Hi there, I'm Yeonsun Yeom
+Hi there, I'm Yeonsun Yeom
 
 > "직관이 아닌 데이터로, 막연함이 아닌 시스템으로 비효율을 0%에 수렴하게 만듭니다." > 데이터 기반의 의사결정(Data-Driven Decision Making)과 시스템 최적화 역량을 갖춘 산업공학도입니다.
 
@@ -34,7 +34,7 @@ Business Insight: 기술 도입의 타당성을 증명하기 위해 정량적인
 
 <br/>
 
- 🚀 Key Projects
+Key Projects
 
  1.  시계열 의료 데이터 기반 중환자실(ICU) 의사결정 지원 시스템
 > Type: Capstone Design Project | Role: Data Preprocessing, Multi-task Modeling | Period: 2025.09 - 2025.12
