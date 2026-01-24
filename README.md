@@ -68,7 +68,7 @@ Solution: 제 3정규화를 통한 무결성 확보 및 실시간 매출/재고 
 Result: 계절성 매출 패턴 및 고수익 상품군 식별을 위한 데이터 인프라 마련, 고객 맞춤 검색 기능 도입으로 검색 속도 3sec -> 0.8sec 로 73% 향상
 <br/>
 
-5. ｢딥러닝 기반 후두 질환 이미지 분류 경진대회｣ （https://github.com/yeomyeonsun/Image-Classification-）
+5. ｢딥러닝 기반 후두 질환 이미지 분류 경진대회｣ (https://github.com/yeomyeonsun/Image-Classification-Competition)）
 Type: Deep Learning Competition | Role: Model Optimization, Experimentation | Period: 2024.11
 
 후두 내시경 이미지를 분석하여 질환 유무를 판별하는 CNN 모델 개발 및 성능 최적화
