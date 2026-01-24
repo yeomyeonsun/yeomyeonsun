@@ -68,24 +68,13 @@ Solution: 제 3정규화를 통한 무결성 확보 및 실시간 매출/재고 
 Result: 계절성 매출 패턴 및 고수익 상품군 식별을 위한 데이터 인프라 마련, 고객 맞춤 검색 기능 도입으로 검색 속도 3sec -> 0.8sec 로 73% 향상
 <br/>
 
-5.[Project Report] 딥러닝 기반 후두 질환 이미지 분류 경진대회
-> Type: Data Analytics | Role: CNN Model Optimization, Experimentation (Attention Modules), Performance Analysis  | Period: 2024.09 - 2024. 12
-Tech Stack: Python, PyTorch/TensorFlow, Google Colab (GPU)
-Methodology: CNN, SE Block, Spatial Attention Module, K-fold Cross Validation
-Goal: 과적합을 억제하여 일반화된 성능을 확보하고, Attention 메커니즘을 도입하여 모델의 특징 추출 능력을 고도화.
+5.딥러닝 기반 후두 질환 이미지 분류 경진대회
+Type: Deep Learning Competition | Role: Model Optimization, Experimentation | Period: 2024.11
 
-Solution Process (해결 과정)
-> Model Architecture & Optimization
-CNN 베이스라인 구축: 이미지 분류를 위한 기초 CNN 모델을 설계하고, Max Pooling과 다양한 Kernel Size를 실험하며 최적의 Feature Map 크기를 탐색.
-Hyperparameter Tuning: Optimizer(Adam, SGD 등)와 Activation Function(ReLU 등)을 변경해가며 Loss 수렴 속도와 안정성을 테스트.
-> Advanced Techniques (심화 기술 적용 시도)
-단순 구조의 한계를 넘기 위해 최신 딥러닝 기법을 적용하여 가설 검증을 수행.
-SE Block (Squeeze-and-Excitation): Feature Map의 채널(Channel) 간 관계를 분석하여, 모델이 더 중요한 정보에 가중치를 두도록 'Feature Recalibration'을 시도.
-Spatial Attention Module: 이미지 내에서 병변이 위치할 가능성이 높은 공간적 위치(Spatial)에 집중하도록 유도하여 성능 향상.
-K-Fold Cross Validation: 데이터의 편향을 막고 신뢰성을 높이기 위해 교차 검증을 시도하며 데이터셋의 품질 문제를 진단.
-
-Results: 반복적인 실험을 통해 과적합을 완화하고, 가장 안정적인 모델을 선별
-Insight: "높은 정확도의 함정"을 경험. 초기 98% 성능에 안주하지 않고 Test Loss를 분석하여 과적합을 찾아냈으며, '복잡한 모델(Attention)이 만능은 아니다'라는 엔지니어링적 교훈. 앙상블(Ensemble) 기법의 필요성을 사후 분석을 통해 깨달음.
+후두 내시경 이미지를 분석하여 질환 유무를 판별하는 CNN 모델 개발 및 성능 최적화
+Problem: 초기 모델의 과적합(Val Acc 98.8% vs 낮은 일반화 성능) 및 단순 CNN 구조의 한계
+Solution: SE Block 및 Spatial Attention 도입을 통한 특징 추출 실험, Hyperparameter Tuning으로 과적합 억제
+Result: 실험을 통해 최적의 모델 복잡도를 찾아내어 Validation Accuracy 87.6%, F1-Score 0.873의 신뢰할 수 있는 성능 확보
 
 Other Activities
 
