@@ -72,7 +72,6 @@ Result: 계절성 매출 패턴 및 고수익 상품군 식별을 위한 데이�
 > Type: Data Analytics | Role: CNN Model Optimization, Experimentation (Attention Modules), Performance Analysis  | Period: 2024.09 - 2024. 12
 Tech Stack: Python, PyTorch/TensorFlow, Google Colab (GPU)
 Methodology: CNN, SE Block, Spatial Attention Module, K-fold Cross Validation
-
 Goal: 과적합을 억제하여 일반화된 성능을 확보하고, Attention 메커니즘을 도입하여 모델의 특징 추출 능력을 고도화.
 
 Solution Process (해결 과정)
@@ -88,7 +87,6 @@ K-Fold Cross Validation: 데이터의 편향을 막고 신뢰성을 높이기 �
 Results: 반복적인 실험을 통해 과적합을 완화하고, 가장 안정적인 모델을 선별
 Insight: "높은 정확도의 함정"을 경험. 초기 98% 성능에 안주하지 않고 Test Loss를 분석하여 과적합을 찾아냈으며, '복잡한 모델(Attention)이 만능은 아니다'라는 엔지니어링적 교훈. 앙상블(Ensemble) 기법의 필요성을 사후 분석을 통해 깨달음.
 
-
 Other Activities
 
 물류관리 프로젝트 (AutoStore 분석): 최신 풀필먼트 자동화 기술(큐브 스토리지) 분석 및 도입 효과 연구 (2024.06)
@@ -96,6 +94,7 @@ Other Activities
 인간공학적 서비스 기획 : 사용자를 고려한 스마트식탁 설계 및 제조 (2024.09 - 2024.12)
 
 Gen-AI 의료 서비스 기획 (스마트서비스): 생성형 AI 기반의 환자 맞춤형 의료진 매칭 서비스 기획 (2025.09 - 2025.12)
+
 
 
 <br/>
