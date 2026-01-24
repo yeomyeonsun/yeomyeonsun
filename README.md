@@ -36,7 +36,7 @@ Business Insight: 기술 도입의 타당성을 증명하기 위해 정량적인
 
 Key Projects
 
- 1.  시계열 의료 데이터 기반 중환자실(ICU) 의사결정 지원 시스템
+ 1. ｢시계열 의료 데이터 기반 중환자실(ICU) 의사결정 지원 시스템｣ （https://github.com/yeomyeonsun/-ICU-）
 > Type: Capstone Design Project | Role: Data Preprocessing, Multi-task Modeling | Period: 2025.09 - 2025.12
 
 중환자실 내 급성 저혈압 및 패혈증 발생을 사전에 예측하여 의료진의 골든타임 확보를 지원하는 딥러닝 모델 개발
@@ -52,7 +52,7 @@ Problem: 생산 규모 확대에 따른 데이터 사일로(Silo) 및 확장성 
 Action: 3가지 투자 시나리오(최소/균형/전략) 수립 및 5년 간의 TCO/ROI 분석
 Result: 전략안 채택 시 ROI 50~60% 및 3년 내 BEP 달성 가능성 입증하여 경영진 설득 논리 완성
 
-3.  딥러닝 기반 불량 의약품(캡슐) 자동 탐지 시스템
+3.  ｢딥러닝 기반 불량 의약품(캡슐) 자동 탐지 시스템｣ （https://github.com/yeomyeonsun/Outlier-detection）
 > Type: Industrial AI Project | Role: CNN Modeling, XAI Implementation | Period: 2025.05 - 2025.07
 
 제조 공정의 육안 검사 한계를 극복하기 위한 결함(Crack, Scratch) 자동 탐지 비전 AI
@@ -60,7 +60,7 @@ Problem: 작업자 피로도에 따른 검사 일관성 저하 및 미세 결함
 Solution: CNN 기반 분류 모델 최적화 및 Grad-CAM(XAI)을 활용한 불량 원인 시각화
 Result: 테스트 데이터 기준 Recall 100%, F1-Score 0.94 달성으로 무결점 품질 검사 가능성 확인
 
-4. E-Commerce 데이터베이스 SQL 설계 및 대시보드 구축
+4. ｢E-Commerce 데이터베이스 SQL 설계 및 대시보드 구축｣ （Competitionhttps://github.com/yeomyeonsun/E-Commerce-SQL-）
 > Type: Database Engineering | Role: ERD Design, SQL Analysis | Period: 2025.03 - 2025.05
 
 복잡한 상품/주문 데이터를 체계적으로 관리하고 비즈니스 인사이트를 도출하기 위한 DB 구축
@@ -68,7 +68,7 @@ Solution: 제 3정규화를 통한 무결성 확보 및 실시간 매출/재고 
 Result: 계절성 매출 패턴 및 고수익 상품군 식별을 위한 데이터 인프라 마련, 고객 맞춤 검색 기능 도입으로 검색 속도 3sec -> 0.8sec 로 73% 향상
 <br/>
 
-5.딥러닝 기반 후두 질환 이미지 분류 경진대회
+5. ｢딥러닝 기반 후두 질환 이미지 분류 경진대회｣ （https://github.com/yeomyeonsun/Image-Classification-）
 Type: Deep Learning Competition | Role: Model Optimization, Experimentation | Period: 2024.11
 
 후두 내시경 이미지를 분석하여 질환 유무를 판별하는 CNN 모델 개발 및 성능 최적화
