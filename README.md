@@ -75,6 +75,11 @@ Type: Deep Learning Competition | Role: Model Optimization, Experimentation | Pe
 Problem: 초기 모델의 과적합(Val Acc 98.8% vs 낮은 일반화 성능) 및 단순 CNN 구조의 한계
 Solution: SE Block 및 Spatial Attention 도입을 통한 특징 추출 실험, Hyperparameter Tuning으로 과적합 억제
 Result: 실험을 통해 최적의 모델 복잡도를 찾아내어 Validation Accuracy 87.6%, F1-Score 0.873의 신뢰할 수 있는 성능 확보
+# Image-Classification-Competition
+후두암 이미지 분류 경진대회
+[Uploading 4.데애 보고서.hwpx…]()
+[간략한 진행과정.docx](https://github.com/user-attachments/files/24836092/default.docx)
+
 
 Other Activities
 
