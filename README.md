@@ -36,29 +36,33 @@ Business Insight: 기술 도입의 타당성을 증명하기 위해 정량적인
 
 Key Projects
 
- 1. ｢시계열 의료 데이터 기반 중환자실(ICU) 의사결정 지원 시스템｣ （https://github.com/yeomyeonsun/-ICU-）
+ 1. ｢시계열 의료 데이터 기반 중환자실(ICU) 의사결정 지원 시스템｣ 
 > Type: Capstone Design Project | Role: Data Preprocessing, Multi-task Modeling | Period: 2025.09 - 2025.12
 
 중환자실 내 급성 저혈압 및 패혈증 발생을 사전에 예측하여 의료진의 골든타임 확보를 지원하는 딥러닝 모델 개발
 Problem: 기존 사후 대응 방식의 한계 및 의료 데이터(MIMIC-III)의 결측치/불균형 문제
 Solution: 시계열 Windowing 전처리 파이프라인 구축 및 Multi-task Bi-LSTM 모델 구현
 Result: 저혈압 예측 오차(MAE) 6.08mmHg, 패혈증 심각도 예측 오차(RMSE) 1.08점 달성
-[캡스톤디자인 3조_최종 보고서.docx](https://github.com/user-attachments/files/24836201/3._.docx)
-[캡스톤디자인 개인 보고서_염연선.docx](https://github.com/user-attachments/files/24836200/_.docx)
+
+* [캡스톤디자인 3조_최종 보고서.docx](https://github.com/user-attachments/files/24836201/3._.docx)
+
+* [캡스톤디자인 개인 보고서_염연선.docx](https://github.com/user-attachments/files/24836200/_.docx)
 
 
-2. [삼성바이오로직스 자재관리 경쟁력 강화를 위한 ERP 도입 전략] (https://github.com/yeomyeonsun/-ERP-)
+2. [삼성바이오로직스 자재관리 경쟁력 강화를 위한 ERP 도입 전략]
 > Type: Business Strategy Proposal | Role: AS-IS Analysis, ROI Simulation | Period: 2025.10 - 2025.11
 
 노후화된 온프레미스 시스템을 클라우드 ERP로 전환하기 위한 투자 타당성 분석 및 전략 제안
 Problem: 생산 규모 확대에 따른 데이터 사일로(Silo) 및 확장성 부족 문제
 Action: 3가지 투자 시나리오(최소/균형/전략) 수립 및 5년 간의 TCO/ROI 분석
 Result: 전략안 채택 시 ROI 50~60% 및 3년 내 BEP 달성 가능성 입증하여 경영진 설득 논리 완성
-[1조_바이오+자재관리_ERP 성공 사례 벤치마킹 보고서 (1).pdf](https://github.com/user-attachments/files/24836204/1._.%2B._ERP.1.pdf)
-[1조_바이오+자재관리_ERP 성공 사례 벤치마킹 워크샵 발표.pdf](https://github.com/user-attachments/files/24836206/1._.%2B._ERP.pd
+
+* [1조_바이오+자재관리_ERP 성공 사례 벤치마킹 보고서 (1).pdf](https://github.com/user-attachments/files/24836204/1._.%2B._ERP.1.pdf)
+
+* [1조_바이오+자재관리_ERP 성공 사례 벤치마킹 워크샵 발표.pdf](https://github.com/user-attachments/files/24836206/1._.%2B._ERP.pd
 
 
-3.  ｢딥러닝 기반 불량 의약품(캡슐) 자동 탐지 시스템｣ （https://github.com/yeomyeonsun/Outlier-detection）
+3.  ｢딥러닝 기반 불량 의약품(캡슐) 자동 탐지 시스템｣ 
 > Type: Industrial AI Project | Role: CNN Modeling, XAI Implementation | Period: 2025.05 - 2025.07
 
 제조 공정의 육안 검사 한계를 극복하기 위한 결함(Crack, Scratch) 자동 탐지 비전 AI
@@ -66,7 +70,8 @@ Problem: 작업자 피로도에 따른 검사 일관성 저하 및 미세 결함
 Solution: CNN 기반 분류 모델 최적화 및 Grad-CAM(XAI)을 활용한 불량 원인 시각화
 Result: 테스트 데이터 기준 Recall 100%, F1-Score 0.94 달성으로 무결점 품질 검사 가능성 확인
 f)
-[불량 의약품 탐지 시스템 개발_산인지_6조.pdf](https://github.com/user-attachments/files/24836218/_._6.pdf)
+
+* [불량 의약품 탐지 시스템 개발_산인지_6조.pdf](https://github.com/user-attachments/files/24836218/_._6.pdf)
 
 
 
@@ -77,8 +82,10 @@ f)
 Solution: 제 3정규화를 통한 무결성 확보 및 실시간 매출/재고 모니터링 대시보드 개발
 Result: 계절성 매출 패턴 및 고수익 상품군 식별을 위한 데이터 인프라 마련, 고객 맞춤 검색 기능 도입으로 검색 속도 3sec -> 0.8sec 로 73% 향상
 <br/>
-[정분설 발표 ppt.pptx](https://github.com/user-attachments/files/24836223/ppt.pptx)
-[E-Commerce 데이터베이스 SQL 설계 및 대시보드 구축 보고서.docx](https://github.com/user-attachments/files/24836225/E-Commerce.SQL.docx)
+
+* [정분설 발표 ppt.pptx](https://github.com/user-attachments/files/24836223/ppt.pptx)
+
+* [E-Commerce 데이터베이스 SQL 설계 및 대시보드 구축 보고서.docx](https://github.com/user-attachments/files/24836225/E-Commerce.SQL.docx)
 
 
 
@@ -90,27 +97,32 @@ Type: Deep Learning Competition | Role: Model Optimization, Experimentation | Pe
 Problem: 초기 모델의 과적합(Val Acc 98.8% vs 낮은 일반화 성능) 및 단순 CNN 구조의 한계
 Solution: SE Block 및 Spatial Attention 도입을 통한 특징 추출 실험, Hyperparameter Tuning으로 과적합 억제
 Result: 실험을 통해 최적의 모델 복잡도를 찾아내어 Validation Accuracy 87.6%, F1-Score 0.873의 신뢰할 수 있는 성능 확보
-[Uploading 4.데애 보고서.hwpx…]()
-[간략한 진행과정.docx](https://github.com/user-attachments/files/24836092/default.docx)
+
+* [Uploading 4.데애 보고서.hwpx…]()
+
+* [간략한 진행과정.docx](https://github.com/user-attachments/files/24836092/default.docx)
 
 
 Other Activities
 
-＞물류관리 프로젝트 (AutoStore 분석): 최신 풀필먼트 자동화 기술(큐브 스토리지) 분석 및 도입 효과 연구 (2024.06)
-[물류관리 팀프로젝트_김정윤, 염연선, 왕아연, 최재원.pdf](https://github.com/user-attachments/files/24836265/_.pdf)
+＞ 물류관리 프로젝트 (AutoStore 분석): 최신 풀필먼트 자동화 기술(큐브 스토리지) 분석 및 도입 효과 연구 (2024.06)
+* [물류관리 팀프로젝트_김정윤, 염연선, 왕아연, 최재원.pdf](https://github.com/user-attachments/files/24836265/_.pdf)
 
 ＞SCM 프로젝트： 최근 기술을 활용한 SCM 기업 분석
-[SCM프로젝트_염연선 최보현.pdf](https://github.com/user-attachments/files/24836267/SCM._.pdf)
+* [SCM프로젝트_염연선 최보현.pdf](https://github.com/user-attachments/files/24836267/SCM._.pdf)
 
 
-＞인간공학적 서비스 기획 : 사용자를 고려한 스마트식탁 설계 및 제조 (2024.09 - 2024.12)
-[Report#3 _인간공학.pptx](https://github.com/user-attachments/files/24836244/Report.3._.pptx)
-[Report #2 인간공학.pptx](https://github.com/user-attachments/files/24836243/Report.2.pptx)
+＞ 인간공학적 서비스 기획 : 사용자를 고려한 스마트식탁 설계 및 제조 (2024.09 - 2024.12)
+
+* [Report#3 _인간공학.pptx](https://github.com/user-attachments/files/24836244/Report.3._.pptx)
+
+* [Report #2 인간공학.pptx](https://github.com/user-attachments/files/24836243/Report.2.pptx)
 
 ＞Gen-AI 의료 서비스 기획 (스마트서비스): 생성형 AI 기반의 환자 맞춤형 의료진 매칭 서비스 기획_Figma (2025.09 - 2025.12)
-[Report#3_60225191 염연선.pptx](https://github.com/user-attachments/files/24836245/Report.3_60225191.pptx)
 
-SQL 직무캠프： 커머스 Data를 활용한 인사이트 구축
+* [Report#3_60225191 염연선.pptx](https://github.com/user-attachments/files/24836245/Report.3_60225191.pptx)
+
+> SQL 직무캠프： 커머스 Data를 활용한 인사이트 구축
 [염연선-1주차 과제.docx](https://github.com/user-attachments/files/24836272/-1.docx)
 [염연선-2주차 과제.docx](https://github.com/user-attachments/files/24836273/-2.docx)
 [3주차 과제-염연선.docx](https://github.com/user-attachments/files/24836271/3.-.docx)
