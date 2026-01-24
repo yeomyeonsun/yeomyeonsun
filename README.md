@@ -36,6 +36,10 @@ Business Insight: 기술 도입의 타당성을 증명하기 위해 정량적인
 
 Key Projects
 
+
+
+
+
  1. ｢시계열 의료 데이터 기반 중환자실(ICU) 의사결정 지원 시스템｣ 
 > Type: Capstone Design Project | Role: Data Preprocessing, Multi-task Modeling | Period: 2025.09 - 2025.12
 
@@ -103,30 +107,33 @@ Result: 실험을 통해 최적의 모델 복잡도를 찾아내어 Validation A
 * [간략한 진행과정.docx](https://github.com/user-attachments/files/24836092/default.docx)
 
 
-Other Activities
 
-＞ 물류관리 프로젝트 (AutoStore 분석): 최신 풀필먼트 자동화 기술(큐브 스토리지) 분석 및 도입 효과 연구 (2024.06)
+6. 물류관리 프로젝트 (AutoStore 분석): 최신 풀필먼트 자동화 기술(큐브 스토리지) 분석 및 도입 효과 연구 (2024.06)
 * [물류관리 팀프로젝트_김정윤, 염연선, 왕아연, 최재원.pdf](https://github.com/user-attachments/files/24836265/_.pdf)
 
-＞SCM 프로젝트： 최근 기술을 활용한 SCM 기업 분석
+7. SCM 프로젝트： 최근 기술을 활용한 SCM 기업 분석
 * [SCM프로젝트_염연선 최보현.pdf](https://github.com/user-attachments/files/24836267/SCM._.pdf)
 
 
-＞ 인간공학적 서비스 기획 : 사용자를 고려한 스마트식탁 설계 및 제조 (2024.09 - 2024.12)
+8. 인간공학적 서비스 기획 : 사용자를 고려한 스마트식탁 설계 및 제조 (2024.09 - 2024.12)
 
 * [Report#3 _인간공학.pptx](https://github.com/user-attachments/files/24836244/Report.3._.pptx)
 
 * [Report #2 인간공학.pptx](https://github.com/user-attachments/files/24836243/Report.2.pptx)
 
-＞Gen-AI 의료 서비스 기획 (스마트서비스): 생성형 AI 기반의 환자 맞춤형 의료진 매칭 서비스 기획_Figma (2025.09 - 2025.12)
+9. Gen-AI 의료 서비스 기획 (스마트서비스): 생성형 AI 기반의 환자 맞춤형 의료진 매칭 서비스 기획_Figma (2025.09 - 2025.12)
 
 * [Report#3_60225191 염연선.pptx](https://github.com/user-attachments/files/24836245/Report.3_60225191.pptx)
 
-> SQL 직무캠프： 커머스 Data를 활용한 인사이트 구축
-[염연선-1주차 과제.docx](https://github.com/user-attachments/files/24836272/-1.docx)
-[염연선-2주차 과제.docx](https://github.com/user-attachments/files/24836273/-2.docx)
-[3주차 과제-염연선.docx](https://github.com/user-attachments/files/24836271/3.-.docx)
-[염연선-4주차 과제.docx](https://github.com/user-attachments/files/24836270/-4.docx)
+10. SQL 직무캠프： 커머스 Data를 활용한 인사이트 구축
+
+* [염연선-1주차 과제.docx](https://github.com/user-attachments/files/24836272/-1.docx)
+
+* [염연선-2주차 과제.docx](https://github.com/user-attachments/files/24836273/-2.docx)
+
+* [3주차 과제-염연선.docx](https://github.com/user-attachments/files/24836271/3.-.docx)
+
+* [염연선-4주차 과제.docx](https://github.com/user-attachments/files/24836270/-4.docx)
 
 
 <br/>
