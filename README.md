@@ -102,10 +102,11 @@ Problem: 초기 모델의 과적합(Val Acc 98.8% vs 낮은 일반화 성능) �
 Solution: SE Block 및 Spatial Attention 도입을 통한 특징 추출 실험, Hyperparameter Tuning으로 과적합 억제
 Result: 실험을 통해 최적의 모델 복잡도를 찾아내어 Validation Accuracy 87.6%, F1-Score 0.873의 신뢰할 수 있는 성능 확보
 
-* [Uploading 4.데애 보고서.hwpx…]()
+* [간략한 진행과정.docx](https://github.com/user-attachments/files/24842325/default.docx)
 
-* [간략한 진행과정.docx](https://github.com/user-attachments/files/24836092/default.docx)
+* [성능 평가 보고서_데애.docx](https://github.com/user-attachments/files/24842323/_.docx)
 
+* [Uploading 경진대회 진행과정 코드_데애.pdf…]()
 
 
 6. 물류관리 프로젝트 (AutoStore 분석): 최신 풀필먼트 자동화 기술(큐브 스토리지) 분석 및 도입 효과 연구 (2024.06)
