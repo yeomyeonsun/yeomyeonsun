@@ -126,7 +126,7 @@ Result: 실험을 통해 최적의 모델 복잡도를 찾아내어 Validation A
 
 * [Report#3_60225191 염연선.pptx](https://github.com/user-attachments/files/24836245/Report.3_60225191.pptx)
 
-10. SQL 직무캠프： 커머스 Data를 활용한 인사이트 구축
+10. SQL 직무캠프： 커머스 Data를 활용한 인사이트 구축 (신입사원 역할, 공부 과정)
 
 * [염연선-1주차 과제.docx](https://github.com/user-attachments/files/24836272/-1.docx)
 
